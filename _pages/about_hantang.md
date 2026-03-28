@@ -1,0 +1,3 @@
+I am Hantang(Tom) Li (Simplified Chinese: 李汉唐 Lǐ Hàn Táng), currently an Assistant Professor of Computer Science at Texas State University. My teaching focuses on Algorithms, Programming, Web App development, and Compiler Design. In addition to teaching, I am actively engaged in service in our student led computer science community and serve as the mentor to the Technical Interview Club on campus.
+
+Previously, I was a Graduate Research Assistant on Nutrition for Underserved Elders via Application ([NUEVA](https://www.fcs.txst.edu/nutrition/nueva.html)) working with Dr. Apan Qasem. I received my Master's of Science in Computer Science at Texas State University and Bachelor's of Science in Electrical and Computer Engineering at University of Texas at Austin.
